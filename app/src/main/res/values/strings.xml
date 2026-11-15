@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+    <string name="add_item">Agregar</string>
+    <string name="edit_item">Editar</string>
+    <string name="delete_item">Eliminar</string>
+    <string name="save">Guardar</string>
+    <string name="title_hint">Título</string>
+    <string name="description_hint">Descripción</string>
+    <string name="empty_list">No hay elementos. Agrega uno nuevo.</string>
+    <string name="confirm_delete">¿Eliminar este elemento?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="field_required">Completa el título y la descripción</string>
+    <string name="new_item">Nuevo elemento</string>
+    <string name="edit_item_title">Editar elemento</string>
+    <string name="detail_title">Detalle</string>
+</resources>
